@@ -1,0 +1,30 @@
+.border_div{
+    border: 1px solid #4CAF50;
+    width: 700px;
+    height: 400px;
+    margin-left: 350px;
+}
+
+.edit{
+    height: 150px;
+    margin-top: 5em;
+    margin-left: 18em;
+}
+
+.button{
+    background-color: red;
+    border-bottom-left-radius:100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-style: double;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    margin-left: 15em;
+    margin-top: 10em
+
+}
+
+.price{
+    margin-left: 30em;
+    margin-top: -8em;
+
+}

@@ -1,0 +1,54 @@
+.img{
+    height: 200px;
+    margin-top: 5em;
+    margin-left: 5em;
+  }
+  .h4{
+      color: red;
+  }
+
+  .div{
+    border: 1px solid #4CAF50;
+    width: 700px;
+    height: 400px;
+    margin-left: 250px;
+  }
+
+  .text{
+      margin-left: 25em;
+      margin-top: -18em
+  }
+
+  .img1 {
+      height: 98px;
+      margin-top: 1em;
+  }
+  .img2 {
+      height: 98px;
+      margin-left: 33em;
+      margin-top: -8.5em;
+  }
+
+  .button1{
+    margin-top: 3em;
+    margin-left: 42em;
+  }
+  
+  .footer{
+    background-color: rgb(224, 220, 220);
+    height:25px;
+    
+  }
+
+  .inform{
+      text-align: center;
+    border: 1px solid red;
+    justify-content: center;
+    
+    width: 150px;
+    height: 170px;
+    margin-top: -28.5em;
+    margin-left: 1em;
+    padding-top: 16em;
+    
+  }
